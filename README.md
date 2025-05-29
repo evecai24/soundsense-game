@@ -22,11 +22,6 @@
 
 - HTML, CSS, and JavaScript
 - Hosted with GitHub Pages
-- Custom audio files 
-
-
-*(Replace the link above with your actual GitHub Pages link)*
-
-## 👩‍🎓 Created By
+- Custom audio files
 
 A game created with care and creativity to explore the perception of sound, language, and culture — especially designed for students and curious minds.
